@@ -2,6 +2,8 @@
 
 Checkout my current portfolio on my most recent projects:
 
+## [Portfolio](https://portfolio-joshuamccluskey.netlify.app)
+
 ## [Gallery of Horns](https://gallery-of-horns-joshuamccluskey.netlify.app/)
 
 ### [Gallery of Horns GitHub](https://github.com/joshuamccluskey/gallery-of-horns)
