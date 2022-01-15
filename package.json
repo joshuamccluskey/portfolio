@@ -44,6 +44,7 @@
     "@iconify/icons-logos": "^1.1.13",
     "@iconify/react": "^1.1.4",
     "gh-pages": "^3.2.3",
-    "node-sass": "^6.0.1"
+    "node-sass": "^6.0.1",
+    "mini-css-extract-plugin": "2.4.5"
   }
 }
