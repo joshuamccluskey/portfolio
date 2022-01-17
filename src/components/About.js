@@ -55,7 +55,7 @@ class About extends Component {
               <div className="col-md-10">
                 <div className="card">
                   <div className="card-header">
-                    {/* <span
+                    <span
                       className="iconify"
                       data-icon="emojione:red-circle"
                       data-inline="false"
@@ -71,7 +71,7 @@ class About extends Component {
                       className="iconify"
                       data-icon="twemoji:green-circle"
                       data-inline="false"
-                    ></span> */}
+                    ></span>
                   </div>
                   <div
                     className="card-body font-trebuchet text-justify ml-3 mr-3"
@@ -82,7 +82,7 @@ class About extends Component {
                     }}
                   >
                     <br />
-                    <span className="wave">{hello} :) </span>
+                    {hello}
                     <br />
                     <br />
                     {about}
