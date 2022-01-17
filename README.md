@@ -10,7 +10,7 @@ Checkout my current portfolio on my most recent projects:
 
 ### [Gallery of Horns GitHub](https://github.com/joshuamccluskey/gallery-of-horns)
 
-## [uBudget](ubugdetorg.github.io/ubudget-/)
+## [uBudget](https://ubugdetorg.github.io/uBudget-/)
 
 ### [uBudet GitHun](https://github.com/uBugdetOrg/uBudget-)
 
